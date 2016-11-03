@@ -1,4 +1,15 @@
+---
+title: "Reproducible Reseach Assignment 1"
+author: Abhishek
+date: November 3, 2016
+
+---
+
+
+
 Basic Settings
+
+
 
 ```{r}
 echo = TRUE  # Always make code visible
